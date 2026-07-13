@@ -1,0 +1,16 @@
+{
+  "name": "nss-marketplace",
+  "owner": {
+    "name": "NSS Abogados SpA"
+  },
+  "version": "1.0.0",
+  "description": "Catálogo de plugins internos de NSS Abogados SpA.",
+  "plugins": [
+    {
+      "name": "nss-abogados",
+      "source": "./plugins/nss-abogados",
+      "version": "1.0.0",
+      "description": "Skills internas de NSS: formato docx, poderes de representación, subarriendo tributario y conversión IFRS-Nubox."
+    }
+  ]
+}
