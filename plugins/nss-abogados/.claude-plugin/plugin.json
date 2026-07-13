@@ -1,0 +1,10 @@
+{
+  "name": "nss-abogados",
+  "displayName": "NSS Abogados",
+  "version": "1.0.0",
+  "description": "Skills internas de NSS Abogados SpA: estándar de formato docx, generación de poderes de representación (SII/TGR/Municipalidades), contrato de subarriendo tributario y conversión de contabilidad tributaria chilena a IFRS (Nubox).",
+  "author": {
+    "name": "NSS Abogados SpA"
+  },
+  "keywords": ["chile", "tributario", "legal", "contable", "sii", "ifrs", "nubox", "docx"]
+}
